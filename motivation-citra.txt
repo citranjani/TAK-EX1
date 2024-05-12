@@ -1,0 +1,6 @@
+ama : Citra Nur Anjani
+Motivasi : Ingin mempelajari Manual dan Automation testing dengan alasan agar,
+    memberikan saya pemahaman yang dalam tentang pentingnya peran QA dalam siklus pengembangan perangkat lunak dalam memperkuat saya pada bidang ini.
+    Saya memiliki tujuan yang jelas untuk mendalami QA Automation kedepannya. Ini adalah langkah yang ambisius dan sangat baik, 
+    karena QA Automation dapat membantu meningkatkan efisiensi dan kualitas pengujian. Dengan mencoba hal baru dan berkontribusi 
+    pada pengujian automation, saya menunjukkan semangat dan komitmen yang kuat terhadap pertumbuhan profesional saya dalam bidang QA.
